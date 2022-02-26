@@ -1,0 +1,24 @@
+{
+    "dados":[
+{
+    "id": 1,
+    "img": "https://www.minasgerais.com.br/imagens/destinos/1578315263xjVvRVGS33.jpg",
+    "cidade": "Serro é rodeada por montanhas e não faltam boas opções para caminhar, descansar e contemplar a natureza. O queijo que se produz por lá se tornou patrimônio imaterial de Minas Gerais",
+    "desc": "serro mg"
+    
+},
+{
+    "id": 2,
+    "img": "https://minasgerais.com.br/imagens/destinos/1494333834aqtqEcA4d3.jpg",
+    "cidade": "Belo Horizonte",
+    "desc": "Lagoa da Pampulha"
+    
+},
+{
+    "id": 3,
+    "img": "https://imagens.ebc.com.br/ABo7EmYAKHemB_DcoKcMViIAbJs=/754x0/smart/https://tvbrasil.ebc.com.br/sites/default/files/thumbnails/image/capitolio.jpg?itok=AV_7vWVz",
+    "cidade": "Capitolio",
+    "desc": "Capitólio, em Minas Gerais. O Lago de Furnas, conhecido como o Mar de Minas"
+    
+}
+    ]}
